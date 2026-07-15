@@ -1,11 +1,4 @@
-<table>
-<tr>
-<td valign="top" width="380">
-
-<img src="photos/potato.jpg" width="380" alt="Potato, a golden retriever, mid-smile" />
-
-</td>
-<td valign="top">
+<img align="left" width="380" src="photos/potato.jpg" alt="Potato, a golden retriever, mid-smile" />
 
 # Hi, I'm Yihang 👋
 
@@ -31,9 +24,7 @@ I'm moving from Meta into **quantitative ML research at Citadel Securities**. It
 - 🔭 Ranking → ML Research
 - 💬 Ask me about embedding infra, ranking systems, or why I keep switching fields
 
-</td>
-</tr>
-</table>
+<br clear="left"/>
 
 ---
 *This README is a snapshot, not a mission statement — check back, it'll drift as I do. (And yes, Potato is real.)*
