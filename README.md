@@ -1,6 +1,6 @@
 <img align="left" width="380" src="photos/potato.jpg" alt="Potato, a golden retriever, mid-smile" />
 
-# Hi, I'm Yihang 👋
+### Hi, I'm Yihang 👋
 
 I build systems that learn from scale — and lately I've been thinking a lot about what happens *after* they learn.
 
