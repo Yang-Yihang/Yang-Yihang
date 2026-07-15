@@ -5,7 +5,11 @@
 I build systems that learn from scale — and lately I've been thinking a lot about what happens *after* they learn.
 
 ```
-Yale PhD (Computer Engineering) → Meta (Instagram / FB Search, ranking @ scale) → Citadel Securities (ML Research)
+Yale PhD (Computer Engineering)
+        ↓
+Meta (Instagram / FB Search, ranking @ scale)
+        ↓
+Citadel Securities (ML Research)
 ```
 
 ### What I've been doing
