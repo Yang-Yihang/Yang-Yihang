@@ -1,8 +1,8 @@
 <table>
 <tr>
-<td valign="top" width="46%">
+<td valign="top" width="380">
 
-<img src="photos/potato.jpg" width="100%" alt="Potato, a golden retriever, mid-smile" />
+<img src="photos/potato.jpg" width="380" alt="Potato, a golden retriever, mid-smile" />
 
 </td>
 <td valign="top">
