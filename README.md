@@ -1,4 +1,4 @@
-<img align="left" width="380" src="photos/potato.jpg" alt="Potato, a golden retriever, mid-smile" />
+<img align="right" width="380" src="photos/potato.jpg" alt="Potato, a golden retriever, mid-smile" />
 
 ### Hi, I'm Yihang 👋
 
